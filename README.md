@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 -The motivation of this project was to build a place for myslef and others to refer back to during the course of the bootcamp. This space is able to be updated with notes as the course transpires. I learned the basics of Git,JS,CSS, and HTML during this project. 
 
 
